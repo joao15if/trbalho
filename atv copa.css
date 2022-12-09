@@ -1,0 +1,75 @@
+.topo{
+	width: 100%;
+	margin-top:5%;
+	text-align: center;
+}
+.continerg{
+	display: flex;
+	flex-wrap: wrap;
+	text-align:center;
+	margin-top: 5%;
+}
+
+.continer{
+	display: flex;
+	flex-wrap: wrap;
+	text-align:center;
+	width: 30%;
+	height:auto ;
+}
+
+.continer1{
+	display: flex;
+	flex-wrap: wrap;
+	text-align:center;
+	width: 30%;
+	height:auto;
+}
+.continer2{
+	display: flex;
+	flex-wrap: wrap;
+	text-align:center;
+	width: 30%;
+	height:auto;
+}
+
+.Brasil{
+	width: 100%;
+	height:30vh;
+	
+}
+.Servia{
+	width: 100%;
+	height:30vh;
+	margin-top: 120%;
+}
+.Suiça{
+	width: 100%;
+	height:30vh;
+	margin-left: 20%;
+	}
+.Camaroes{
+	width: 100%;
+	height:30vh;
+	margin-top: 120%;
+	margin-left: 20%;
+}
+.Copa{
+width: 100%;
+	height:30vh;
+	background-color: black;
+	margin-left: 20%;
+}
+p{
+	font-style:Arial;
+}
+li{
+	text-decoration-style: Arial;
+}
+@media (max-width: 760px){
+	.topo,.conteinerg,.continer,.continer2,.continer1,.Brasil,.Suiça,.Camaroes,.Servia{
+		width: 100%;
+		height: auto;
+		margin-top: 10%;
+	}
+	
